@@ -1,0 +1,11 @@
+SAPI 4:
+  Alyona :: Alyona (Russian) SAPI4 22kHz
+SAPI 5:
+  Acapela Alyona22k
+  Microsoft Anna
+  Nuance Automotive Milena Compact 22kHz
+  Nuance Automotive Milena Premium 22kHz
+  Nuance Automotive Milena Premium High 22kHz
+  Nuance Automotive Milena Standard 22kHz
+  Nuance Automotive Milena Standard High 22kHz
+ 7 
