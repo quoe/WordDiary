@@ -9,3 +9,5 @@ Video
 [![WordDiary, 3](https://i9.ytimg.com/vi/p-qiK85nRvo/mq2.jpg?sqp=CPSYvPkF&rs=AOn4CLD5krITkE2LL48YeYyqlfLeKSG3-w)](https://youtu.be/p-qiK85nRvo "WordDiary, 3")  
 
 [![WordDiary, 4](https://i9.ytimg.com/vi/moiQug7wFT8/mq2.jpg?sqp=CPSYvPkF&rs=AOn4CLAwFapL5q_iYAcl9ABCM5bXl5L9qQ)](https://youtu.be/moiQug7wFT8 "WordDiary, 4")  
+
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by.png" alt="CC BY" title="CC BY" width="120">
